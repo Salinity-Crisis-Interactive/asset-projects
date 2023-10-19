@@ -1,6 +1,6 @@
 # General:
 .DS_store
-/ref
+**/ref
 /exports
 
 # Ableton Live:
