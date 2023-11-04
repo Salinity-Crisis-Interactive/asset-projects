@@ -1,7 +1,8 @@
 # General:
 .DS_store
-**/ref
-/exports
+**/ref/
+**/exports/
+**/source/
 
 # Ableton Live:
 Icon?
